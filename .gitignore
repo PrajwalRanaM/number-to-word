@@ -1,2 +1,5 @@
-web/
-recursive/
+# Ignore everything
+*
+
+# Exclude the Java folder
+!/java/
